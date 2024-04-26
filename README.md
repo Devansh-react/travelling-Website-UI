@@ -6,4 +6,5 @@ This project explores the UI/UX design for "Voyage Vibes," a travel website. It 
 * Informative Blog Section:Sharing travel tips and destination insights.
 * Secure Sign-in Page: Enabling seamless user account creation and login. 
 * Immersive Gallery: Showcasing stunning destinations with captivating visuals. 
-  [Voyage Vibes](https://www.figma.com/file/lmuP3qBnBkxKaQqdI498qe/travel-website?type=design&node-id=0%3A1&mode=design&t=AB9qTlkAWhiv3W1M-1)
+
+ *[Voyage Vibes](https://www.figma.com/file/lmuP3qBnBkxKaQqdI498qe/travel-website?type=design&node-id=0%3A1&mode=design&t=AB9qTlkAWhiv3W1M-1)
